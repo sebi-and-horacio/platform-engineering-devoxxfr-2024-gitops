@@ -1,0 +1,7 @@
+apiVersion: "lostinbrittany.dev/v1alpha1"
+kind: DoodledAvatarAPI
+metadata:
+  name: my-doodled-avatar-api
+spec:
+  endpoint: https://doodled-avatar-api.cleverapps.io
+  apiKey: bmy4hsdjkykyzbgzhsgpcipqafwfw7
